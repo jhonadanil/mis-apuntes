@@ -134,13 +134,3 @@ lit_val_dicc = list(diccionario.values())
 
 #imprimimos la lista de los valores del diccionario
 print (lit_val_dicc)
-
-
-
-
-#funciones 
-nombre = input("¿Cómo te llamas?")
-def saludar():
-    print("¡Holaaa ", nombre, ", ¿qué tal todo? ¿Cómo vas, guapetón?..")
-
-saludar() #esto hara que imprima un saludo con tu nombre
