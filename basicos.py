@@ -123,14 +123,34 @@ diccionario = {
 'clave2': 'valor2',
 'clave3': 'valor3'}
 
-#si clave1 esta en diccionario
+#si clave1 esta en diccionario.
 if 'clave1' in diccionario:
-   #imprime esto
+   #imprime esto.
    print("si esta en la lista")
 
 
-#creamos una variable, y dentro hay una lista de todos los valores del diccionario
+#creamos una variable, y dentro hay una lista de todos los valores del diccionario.
 lit_val_dicc = list(diccionario.values())
 
-#imprimimos la lista de los valores del diccionario
+#imprimimos la lista de los valores del diccionario.
 print (lit_val_dicc)
+
+
+
+#palabras clave en python importantes.
+
+#if 
+#para realizar una comprobación o prueba de condición y ejecutar una acción si se cumple la condición.
+
+x = 15
+if x > 10: #comprueba si x es menor que 10.
+    print("x es mayor que 10")
+
+
+
+#for 
+#para iterar sobre una secuencia de valores, como una lista o un rango de números, y realizar una acción en cada iteración.
+
+lista = [1, 2, 3, 4, 5]
+for elemento in lista: #imprime cada elemento de la lista.
+    print(elemento)
