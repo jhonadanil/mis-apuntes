@@ -9,7 +9,7 @@ En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada 
 
 - `funciones.py`: apuntes sobre cómo crear y utilizar funciones en Python.
 
-´numpy.py´: apuntes de comandos que utilizaremos para numpy.
+- ´numpy.py´: apuntes de comandos que utilizaremos para numpy.
 
 ## Contribuciones 🤝
 
