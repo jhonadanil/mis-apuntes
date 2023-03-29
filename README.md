@@ -1,14 +1,15 @@
-# Mis apuntes de código Python 🐍💻
+# Mis apuntes de código Python 💻
 
-En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada archivo contiene una breve explicación y algunos ejemplos de cómo utilizar diferentes características de Python.
+En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada archivo contiene una breve explicación y algunos ejemplos de cómo utilizar diferentes características de Python, el objetivo final es anotar todos mis conocimientos hasta llegar a programar mi propia inteligencia artificial.
+ Para empezar hay que descargarse anaconda 🐍, alli se eoncontrara todas las librerias que usaremos.
 
 ## Estructura del repositorio 📂
 
 - `basicos.py`: apuntes sobre conceptos básicos de Python, como variables, tipos de datos y estructuras de control.
-- `dino_ia.py`: una ia que juega al dinosaurio de Google Chrome.
+
 - `funciones.py`: apuntes sobre cómo crear y utilizar funciones en Python.
-- `archivos.py`: apuntes sobre cómo trabajar con archivos en Python.
-- `modulos.py`: apuntes sobre cómo importar y utilizar módulos en Python.
+
+´numpy.py´: apuntes de comandos que utilizaremos para numpy.
 
 ## Contribuciones 🤝
 
