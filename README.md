@@ -1,7 +1,7 @@
 # Mis apuntes de código Python 💻
 
 En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada archivo contiene una breve explicación y algunos ejemplos de cómo utilizar diferentes características de Python, el objetivo final es anotar todos mis conocimientos hasta llegar a programar mi propia inteligencia artificial.
- Para empezar hay que descargarse anaconda 🐍, alli se eoncontrara todas las librerias que usaremos.
+ Para empezar hay que descargarse anaconda 🐍
 
 ## Estructura del repositorio 📂
 
