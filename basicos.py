@@ -154,3 +154,4 @@ if x > 10: #comprueba si x es menor que 10.
 lista = [1, 2, 3, 4, 5]
 for elemento in lista: #imprime cada elemento de la lista.
     print(elemento)
+   
