@@ -5,11 +5,34 @@ En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada 
 
 ## Estructura del repositorio 📂
 
+# programación en python.
+
 - `basicos.py`: apuntes sobre conceptos básicos de Python, como variables, tipos de datos y estructuras de control.
 
-- `funciones.py`: apuntes sobre cómo crear y utilizar funciones en Python.
+- `funciones.py`:
 
-- `numpy.py`: apuntes de comandos que utilizaremos para numpy.
+- `variables.py`: 
+
+- `tipos de datos.py`:
+
+- `estructuras de contlol`:
+
+
+#bibliotecas.
+
+- `numpy.py`:
+
+- `pandas.py`:
+
+- `matplotlib.py`:
+
+- `scikit-learn`:
+
+- `Tensorflow`:
+
+#algoritmos y matemáticas.
+
+aún no coloco nada 🤙😔
 
 ## Contribuciones 🤝
 
