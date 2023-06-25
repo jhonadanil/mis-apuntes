@@ -1,39 +1,36 @@
-# Mis apuntes de machine learning💻
+# Mis apuntes de Machine Learning 💻
 
-Este repositorio contiene ejemplos de código que cubren los conceptos básicos de Python 🐍, matemáticas y las bibliotecas que se utilizan para Machine Learning, el objetivo final será darte las bases necesarias para crear tu propios proyectos de machine learning.
-para empezar hay que descargarse anaconda, enseño como descargarlo en el siguiente video 
- 
+Este repositorio contiene ejemplos de código que cubren los conceptos básicos de Python 🐍, matemáticas y las bibliotecas utilizadas en Machine Learning. El objetivo final es proporcionarte las bases necesarias para crear tus propios proyectos de Machine Learning. Para comenzar, es necesario descargar e instalar Anaconda. Puedes aprender cómo hacerlo en el siguiente video (inserta el enlace al video).
 
 ## Estructura del repositorio 📂
 
-# programación en python.
+### Programación en Python
 
-- `basicos.ipynb`: conceptos básicos de Python
+- `basicos.ipynb`: Conceptos básicos de Python.
 
-- `funciones.py`:
+- `funciones.py`: Ejemplos de funciones en Python.
 
-- `variables.py`: 
+- `variables.py`: Ejemplos de variables en Python.
 
-- `tipos de datos.py`:
+- `tipos de datos.py`: Ejemplos de tipos de datos en Python.
 
-- `estructuras de control`:
+- `estructuras de control`: Ejemplos de estructuras de control en Python.
 
+### Bibliotecas
 
-#bibliotecas.
+- `numpy.py`: Ejemplos de uso de la biblioteca NumPy.
 
-- `numpy.py`:
+- `pandas.py`: Ejemplos de uso de la biblioteca Pandas.
 
-- `pandas.py`:
+- `matplotlib.py`: Ejemplos de uso de la biblioteca Matplotlib.
 
-- `matplotlib.py`:
+- `scikit-learn.py`: Ejemplos de uso de la biblioteca scikit-learn.
 
-- `scikit-learn`:
+- `Tensorflow.py`: Ejemplos de uso de la biblioteca TensorFlow.
 
-- `Tensorflow`:
+### Algoritmos y matemáticas
 
-#algoritmos y matemáticas.
-
-aún no coloco nada 🤙😔
+Aún no se ha agregado contenido en esta sección. 🤙😔
 
 ## Contribuciones 🤝
 
