@@ -1,13 +1,13 @@
 # Mis apuntes de código Python 💻
 
-En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada archivo contiene una breve explicación y algunos ejemplos de cómo utilizar diferentes características de Python, el objetivo final es anotar todos mis conocimientos hasta llegar a programar mi propia inteligencia artificial.
- Para empezar hay que descargarse anaconda 🐍
+Este repositorio contiene ejemplos de código que cubren los conceptos básicos de Python 🐍, matemáticas y las bibliotecas que se utilizan para Machine Learning.
+ El objetivo final será darte las bases necesarias para crear tu propios proyectos de machine learning 
 
 ## Estructura del repositorio 📂
 
 # programación en python.
 
-- `basicos.py`: apuntes sobre conceptos básicos de Python, como variables, tipos de datos y estructuras de control.
+- `basicos.py`: conceptos básicos de Python
 
 - `funciones.py`:
 
@@ -15,7 +15,7 @@ En este repositorio encontrarás mis apuntes y ejemplos de código Python. Cada 
 
 - `tipos de datos.py`:
 
-- `estructuras de contlol`:
+- `estructuras de control`:
 
 
 #bibliotecas.
