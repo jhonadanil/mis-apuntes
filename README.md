@@ -1,13 +1,14 @@
-# Mis apuntes de código Python 💻
+# Mis apuntes de machine learning💻
 
-Este repositorio contiene ejemplos de código que cubren los conceptos básicos de Python 🐍, matemáticas y las bibliotecas que se utilizan para Machine Learning.
- El objetivo final será darte las bases necesarias para crear tu propios proyectos de machine learning 
+Este repositorio contiene ejemplos de código que cubren los conceptos básicos de Python 🐍, matemáticas y las bibliotecas que se utilizan para Machine Learning, el objetivo final será darte las bases necesarias para crear tu propios proyectos de machine learning.
+para empezar hay que descargarse anaconda, enseño como descargarlo en el siguiente video 
+ 
 
 ## Estructura del repositorio 📂
 
 # programación en python.
 
-- `basicos.py`: conceptos básicos de Python
+- `basicos.ipynb`: conceptos básicos de Python
 
 - `funciones.py`:
 
