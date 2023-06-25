@@ -8,25 +8,25 @@ Este repositorio contiene ejemplos de código que cubren los conceptos básicos 
 
 - `basicos.ipynb`: Conceptos básicos de Python.
 
-- `funciones.py`: Ejemplos de funciones en Python.
+- `funciones.ipynb`: Ejemplos de funciones en Python.
 
-- `variables.py`: Ejemplos de variables en Python.
+- `variables.ipynb`: Ejemplos de variables en Python.
 
-- `tipos de datos.py`: Ejemplos de tipos de datos en Python.
+- `tipos de datos.ipynb`: Ejemplos de tipos de datos en Python.
 
-- `estructuras de control`: Ejemplos de estructuras de control en Python.
+- `estructuras de control.ipynb`: Ejemplos de estructuras de control en Python.
 
 ### Bibliotecas
 
-- `numpy.py`: Ejemplos de uso de la biblioteca NumPy.
+- `numpy.ipynb`: Ejemplos de uso de la biblioteca NumPy.
 
-- `pandas.py`: Ejemplos de uso de la biblioteca Pandas.
+- `pandas.ipynb`: Ejemplos de uso de la biblioteca Pandas.
 
-- `matplotlib.py`: Ejemplos de uso de la biblioteca Matplotlib.
+- `matplotlib.ipynb`: Ejemplos de uso de la biblioteca Matplotlib.
 
-- `scikit-learn.py`: Ejemplos de uso de la biblioteca scikit-learn.
+- `scikit-learn.ipynb`: Ejemplos de uso de la biblioteca scikit-learn.
 
-- `Tensorflow.py`: Ejemplos de uso de la biblioteca TensorFlow.
+- `Tensorflow.ipynb`: Ejemplos de uso de la biblioteca TensorFlow.
 
 ### Algoritmos y matemáticas
 
