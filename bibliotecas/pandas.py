@@ -15,7 +15,7 @@ las 10 últimas filas
 df.colums
 #muestra las columnas
 
-#df."nombre de la columna"
+df."nombre de la columna"
 #enseña los datos de la columna
 
 
