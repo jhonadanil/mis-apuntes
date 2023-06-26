@@ -18,7 +18,8 @@ df.colums
 df."nombre de la columna"
 #enseña los datos de la columna
 
-
+df.dtypes
+#enseña los tipos de datos de las colum. del dataframe 
 
 
 
