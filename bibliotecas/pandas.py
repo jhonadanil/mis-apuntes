@@ -21,8 +21,8 @@ df."nombre de la columna"
 df.dtypes
 #enseña los tipos de datos de las colum. del dataframe 
 
-
-
+df2 = df.head(10)
+#guardamos las 10 primeras filas en la variable "df2"
 
 
 
